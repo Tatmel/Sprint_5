@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# ignored idea
+Sprint_5/.idea
+
+# ignored target
+Sprint_5/.target
